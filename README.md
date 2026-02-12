@@ -1,6 +1,6 @@
 SELAM! (HI THERE!) 👋
 
-I'm Shambel, a backend developer with a passion for building robust and scalable applications using Go (Golang). With over 4 years of experience in software development and 2+ years specifically focused on Golang, I've had the opportunity to work on a variety of projects, ranging from microservices architectures and saas solutions to web applications and APIs.
+I'm Shambel, a backend developer with a passion for building robust and scalable applications using Go (Golang). With over 5 years of experience in software development specifically focused on Golang, I've had the opportunity to work on a variety of projects, ranging from microservices architectures and saas solutions to web applications and APIs.
 
 🔧 Technologies & Skills
 
